@@ -6,7 +6,7 @@ The ELK stack is designed for full text searching, log type, workloads.
 
 [https://www.elastic.co/guide/index.html](https://www.elastic.co/guide/index.html "Elastic co. documentation root ")
 
-### Elasticsearch
+### [Elasticsearch](https://docs.halstead.ninja/elasticsearch)
 
 Data Storage
 
