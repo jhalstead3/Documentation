@@ -10,11 +10,9 @@ The ELK stack is designed for full text searching, log type, workloads.
 
 ### Kibana
 
-
-
 ## TICK stack
 
-InfluxDB is better designed for time centric, metric based, workloads when compared to ELK stack.
+InfluxDB is designed for time series, metric type, workloads.
 
 ### Telegraf
 
