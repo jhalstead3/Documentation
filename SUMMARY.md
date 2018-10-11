@@ -4,6 +4,10 @@
 
 * [Introduction](README.md)
 
+## Documentation
+
+* [Documentation Choices](documentation/documentation-choices.md)
+
 ## Server Environment
 
 * [Cisco UCS Rackmount stand-alone servers](cisco-ucs-rackmount-stand-alone-servers.md)
