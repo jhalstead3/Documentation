@@ -1,4 +1,4 @@
-# Logging and Metrics systems
+# Logging and Metrics
 
 ## ELK stack
 
