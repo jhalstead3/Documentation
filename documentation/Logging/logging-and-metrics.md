@@ -6,8 +6,8 @@ Elasticsearch is designed for full text searching, log type, workloads.
 
 [https://www.elastic.co/guide/index.html](https://www.elastic.co/guide/index.html "Elastic co. documentation root ")
 
-### [Elasticsearch](https://docs.halstead.ninja/elasticsearch)
-
+### Elasticsearch
+*[Elasticsearch]
 Data Storage
 
 [https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html "Elasticsearch Reference")
