@@ -1,8 +1,13 @@
 # Summary
 
+## About
+
 * [Introduction](README.md)
-* [Veeam Backup and Replication](veeam-backup-and-replication.md)
+
+## Server Environment
+
 * [Cisco UCS Rackmount stand-alone servers](cisco-ucs-rackmount-stand-alone-servers.md)
+* [Veeam Backup and Replication](veeam-backup-and-replication.md)
 
 ## Logging and Metrics
 
